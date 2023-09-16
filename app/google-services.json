@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682900746393",
+    "project_id": "prinzv2-ba7d0",
+    "storage_bucket": "prinzv2-ba7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682900746393:android:d365640b1080f137990808",
+        "android_client_info": {
+          "package_name": "com.example.logisticpharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682900746393-4kppg1oi183186g24m7rssp9rnvvojep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1YB59ZRrFPqB8Cj3U8fr_0L6dG2rEYfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682900746393-4kppg1oi183186g24m7rssp9rnvvojep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

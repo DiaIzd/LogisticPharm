@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LogisticPharm" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.LogisticPharm" parent="Base.Theme.LogisticPharm" />
+    <style name="DarkTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize the dark theme colors -->
+        <item name="colorPrimary">@color/darkPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/darkPrimaryDarkColor</item>
+        <item name="colorAccent">@color/darkAccentColor</item>
+        <!-- Add any other customizations for the dark theme -->
+    </style>
+
+    <style name="LightTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize the light theme colors -->
+        <item name="colorPrimary">@color/lightPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/lightPrimaryDarkColor</item>
+        <item name="colorAccent">@color/lightAccentColor</item>
+        <!-- Add any other customizations for the light theme -->
+    </style>
+</resources>

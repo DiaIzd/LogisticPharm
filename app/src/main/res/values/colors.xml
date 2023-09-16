@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF6600</color>
+    <color name="green">#66FF66</color>
+    <color name="purple">#9966FF</color>
+    <color name="blue">#6699FF</color>
+
+    <color name="darkPrimaryColor">#212121</color>
+    <color name="darkPrimaryDarkColor">#000000</color>
+    <color name="darkAccentColor">#FF4081</color>
+    <color name="darkStatusBarColor">#212121</color>
+    <color name="darkNavigationBarColor">#000000</color>
+
+    <!-- Light mode colors -->
+    <color name="lightPrimaryColor">#FFFFFF</color>
+    <color name="lightPrimaryDarkColor">#F5F5F5</color>
+    <color name="lightAccentColor">#FF4081</color>
+    <color name="lightStatusBarColor">#FFFFFF</color>
+    <color name="lightNavigationBarColor">#F5F5F5</color>
+    <color name="label_text_color">@color/black</color>
+</resources>
